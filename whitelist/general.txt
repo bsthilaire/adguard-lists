@@ -1,0 +1,6 @@
+logx.optimizely.com	
+go.skimresources.com
+android.clients.google.com	
+sdk.split.io	
+insights-collector.newrelic.com	
+cdn.optimizely.com
