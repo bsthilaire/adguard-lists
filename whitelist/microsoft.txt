@@ -1,4 +1,5 @@
 activity.windows.com
+arc.msn.com
 attestation.xboxlive.com	
 cert.mgt.xboxlive.com	
 client-s.gateway.messenger.live.com
@@ -18,9 +19,12 @@ settings-win.data.microsoft.com
 sls.update.microsoft.com.akadns.net
 title.auth.xboxlive.com	
 title.mgt.xboxlive.com	
+tlu.dl.delivery.mp.microsoft.com
 v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com	
 v20.events.data.microsoft.com
+watson.telemetry.microsoft.com
+web.vortex.data.microsoft.com
 www.msftncsi.com	
 www.xboxlive.com	
 xbox.ipv6.microsoft.com
@@ -29,4 +33,3 @@ xflight.xboxlive.com
 xkms.xbolive.com
 xkms.xboxlive.com	
 xsts.auth.xboxlive.com
-watson.telemetry.microsoft.com
