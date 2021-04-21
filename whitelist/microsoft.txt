@@ -1,6 +1,7 @@
 activity.windows.com
 arc.msn.com
 attestation.xboxlive.com	
+browser.events.data.microsoft.com
 cert.mgt.xboxlive.com	
 client-s.gateway.messenger.live.com
 clientconfig.passport.net
@@ -14,6 +15,7 @@ fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 geo-prod.do.dsp.mp.microsoft.com
 help.ui.xboxlive.com	
 licensing.xboxlive.com	
+mobile.events.data.microsoft.com
 notify.xboxlive.com	
 settings-win.data.microsoft.com
 sls.update.microsoft.com.akadns.net
